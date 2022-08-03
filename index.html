@@ -29,7 +29,7 @@
           <a href="#">Contact Us</a>
         </li>
         <li>
-          <a href="#">Achievements</a>
+         <a href="./faq.html">FAQ</a>
         </li>
       </ul>
     </nav>
@@ -236,8 +236,13 @@
     document.querySelector("nav").className = "hide";
     showbtn.style.display = "unset";
   }
+  document.querySelector("#submitButton").addEventListener("click", (e) => {
+    e.preventDefault();
+    alert("message successfully sent ✅");
+    // document.querySelectorAll("input").value = "";
 
-
+})
 </script>
+<script src="./script.js"></script>
 
 </html>
