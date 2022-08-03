@@ -1,37 +1,37 @@
 var list = [
   {
     id: 1,
-    name: "Utkarsh",
+    name: "Shorya",
     src: "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
     desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis eum assumenda suscipit pariatur quisquam aliquam dolorem corrupti alias voluptates illo.",
   },
   {
     id: 2,
-    name: "Kalra",
+    name: "Shorya",
     src: "https://png.pngtree.com/element_our/png/20181206/female-avatar-vector-icon-png_262142.jpg",
     desc: "Laudantium asperiores quo sint earum sed delectus eos qui error quisquam vel nihil quae at voluptate facilis non nam voluptatum, veritatis dignissimos. Deserunt nesciunt tenetur illum qui natus!",
   },
   {
     id: 3,
-    name: "Sukhman",
+    name: "Siddhant",
     src: "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
     desc: "Qui vel corrupti, ex excepturi asperiores iure reiciendis velit itaque, voluptatem, quas odit quo. Recusandae, expedita voluptatum rerum enim consequuntur hic a vel, quia ea tempora, asperiores illo ex placeat?",
   },
   {
     id: 4,
-    name: "Singh",
+    name: "pratap",
     src: "https://png.pngtree.com/element_our/png/20181206/female-avatar-vector-icon-png_262142.jpg",
     desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis eum assumenda suscipit pariatur quisquam aliquam dolorem corrupti alias voluptates illo.",
   },
   {
     id: 5,
-    name: "Mandeep",
+    name: "sanat",
     src: "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
     desc: "Qui vel corrupti, ex excepturi asperiores iure reiciendis velit itaque, voluptatem, quas odit quo. Recusandae, expedita voluptatum rerum enim consequuntur hic a vel, quia ea tempora, asperiores illo ex placeat?",
   },
   {
     id: 6,
-    name: "Sukhi",
+    name: "sonam",
     src: "https://png.pngtree.com/element_our/png/20181206/female-avatar-vector-icon-png_262142.jpg",
     desc: "Laudantium asperiores quo sint earum sed delectus eos qui error quisquam vel nihil quae at voluptate facilis non nam voluptatum, veritatis dignissimos. Deserunt nesciunt tenetur illum qui natus!",
   },
@@ -71,9 +71,9 @@ const prevReview = () => {
 
 //storing in localstorage;
 
-localStorage.setItem("roll_number", "UE198110");
+localStorage.setItem("roll_number", "UE198095");
 
 // creating cookies
 
-document.cookie = "username=utkarsh kalra";
+document.cookie = "username=shorya singh";
 document.cookie = "year=3rd year";
